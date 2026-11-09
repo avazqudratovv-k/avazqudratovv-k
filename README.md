@@ -3,14 +3,14 @@
 Full-stack developer in Suwon, Korea. I mostly write TypeScript, and I care about two things: pages that load fast, and AI answers you can check.
 
 ```text
-$ git log --oneline --author=avaz        # my career, newest first
+$ git log --oneline        # my career, newest first
 
-a8f2c1e  2026  Indesk: five agents read your files, every claim in the report is verified or flagged
-7d41b09  2026  Onestep: search and reports 4.5 s → under 300 ms (pgvector hybrid retrieval, Redis, TanStack Query)
-3c90e7a  2025  Onestep: RAG assistant in production, 450+ requests a week, every answer cites its source
-91be44d  2025  Onestep: release testing from hours of clicking to a ~10 min Playwright run in GitHub Actions
-5e17d2a  2024  Bast: first page load 3.8 s → 2.1 s with lazy loading and code splitting
-0b3a6f1  2024  Bast: booking UI for a resort aggregator, 4,000+ visitors a month
+a8f2c1e  2026  Indesk: 5 AI agents, 1 report, every claim checked
+7d41b09  2026  Onestep: CRM search 4.5 s → <300 ms (pgvector, Redis)
+3c90e7a  2025  Onestep: RAG assistant, 450+ asks/week, cites sources
+91be44d  2025  Onestep: release testing hours → 10 min (Playwright)
+5e17d2a  2024  Bast: first load 3.8 s → 2.1 s (code splitting)
+0b3a6f1  2024  Bast: booking UI, 4,000+ visitors a month
 ```
 
 ### Things I built and run myself
